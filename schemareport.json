@@ -1,0 +1,19 @@
+{
+"reports": {
+    "rnumb": "string",
+    "rdate": "string:8",
+    "rtime": "string:8",
+    "alocn": "string",
+    "apict1": "text",
+    "apict1thum": "text",
+    "apict2": "text",
+    "apict2thum": "text",
+    "apict3": "text",
+    "apict3thum": "text",
+    "afire": "enum:y,n|default:n",
+    "atrap": "enum:y,n|default:n",
+    "ainju": "enum:y,n|default:n",
+    "user_id": "foreign|constrained"
+  }
+
+}

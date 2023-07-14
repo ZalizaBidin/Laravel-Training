@@ -1,0 +1,9 @@
+{ 
+   "drivers": {
+      "name": "string:50|index:50",
+      "icno": "string:12|index:12",
+      "licenseno": "string:12|index:12",
+      "licensepict": "text",
+      "user_id": "integer:index"
+    }
+}

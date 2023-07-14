@@ -1,0 +1,9 @@
+{ 
+   "status": {
+      "type": "string:50|index:50",
+      "desc": "string:12|index:12",
+      "sdate": "date",
+      "stime": "string:8",
+      "report_id": "foreign|constrained"
+    }
+}
